@@ -1,0 +1,19 @@
+# Pycharm files
+*__pycache__
+
+# MacOS files
+*.DS_Store
+*.idea
+
+# DB
+*.sqlite
+*.sqlite3
+*.db
+
+# Dotenv
+*.env
+../.venv
+
+# Virtual Environment
+*.venv
+.venv
